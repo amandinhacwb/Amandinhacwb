@@ -7,7 +7,7 @@ Meu nome é Amanda Lopes;
 -gosto de programar, pois é muito legal;
 
 
-###  caso queira Voce entrar em contato comigo 📧
+###  caso queira entrar em contato comigo 📧
 
  lopes.barbosa.amanda@escola.pr.gov.br
  
