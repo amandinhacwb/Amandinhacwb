@@ -2,7 +2,8 @@
 
 Meu nome é Amanda Lopes;
 
--estou estudando no alura start, em um projeto muito legal!;
+-estou estudando no alura start, em um projeto muito legal!; 
+
 -gosto de programar, pois é muito legal;
 
 
